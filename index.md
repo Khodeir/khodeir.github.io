@@ -6,6 +6,11 @@ My more recent research interests are in automated planning and reasoning in rob
 
 Previously, I worked as a Machine Learning engineer, at [Xero](https://www.xero.com) and [Hubdoc](https://www.hubdoc.com) focusing on applications in Natural Language Processing and Computer Vision.
 
+## Publications
+
+- [Learning To Search in Task and Motion Planning with Streams](https://rvl.cs.toronto.edu/learning-based-tamp/) - **Mohamed Khodeir**, Ben Agro, Florian Shkurti
+- [TASKOGRAPHY: Evaluating robot task planning over large 3D scene graphs](https://taskography.github.io) - Christopher Agia, Krishna Murthy Jatavallabhula, **Mohamed Khodeir**, Ondrej Miksik, Vibhav Vineet, Mustafa Mukadam, Liam Paull, Florian Shkurti
+
 <!-- You can use the [editor on GitHub](https://github.com/Khodeir/khodeir.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
