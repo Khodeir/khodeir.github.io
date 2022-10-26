@@ -8,6 +8,7 @@ Previously, I worked as a Machine Learning engineer, at [Xero](https://www.xero.
 
 ## Publications
 
+- [Policy-Guided Lazy Search with Feedback for Task and Motion Planning](https://arxiv.org/abs/2210.14055) - **Mohamed Khodeir**, Atharv Sonwane, Florian Shkurti
 - [Learning To Search in Task and Motion Planning with Streams](https://rvl.cs.toronto.edu/learning-based-tamp/) - **Mohamed Khodeir**, Ben Agro, Florian Shkurti
 - [TASKOGRAPHY: Evaluating robot task planning over large 3D scene graphs](https://taskography.github.io) - Christopher Agia, Krishna Murthy Jatavallabhula, **Mohamed Khodeir**, Ondrej Miksik, Vibhav Vineet, Mustafa Mukadam, Liam Paull, Florian Shkurti
 
