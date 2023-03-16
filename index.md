@@ -1,6 +1,6 @@
 ## About me
 
-I'm currently pursuing my MSc at the University of Toronto, where I work at the [Robot Vision and Learning Lab](https://rvl.cs.toronto.edu) under the supervision of professor [Florian Shkurti](https://www.cs.toronto.edu/~florian/).
+I obtained my MSc at the University of Toronto, where I worked at the [Robot Vision and Learning Lab](https://rvl.cs.toronto.edu) under the supervision of professor [Florian Shkurti](https://www.cs.toronto.edu/~florian/).
 
 My more recent research interests are in automated planning and reasoning in robotics, specifically focused on task-and-motion planning problems. 
 
