@@ -1,10 +1,7 @@
 ## About me
+I obtained my MSc at the University of Toronto, where I worked at the [Robot Vision and Learning Lab](https://rvl.cs.toronto.edu) with professor [Florian Shkurti](https://www.cs.toronto.edu/~florian/). My research focused on how to enable planning systems to learn from experience, especially in the setting of task and motion planning problems in robotic manipulation.
 
-I obtained my MSc at the University of Toronto, where I worked at the [Robot Vision and Learning Lab](https://rvl.cs.toronto.edu) under the supervision of professor [Florian Shkurti](https://www.cs.toronto.edu/~florian/).
-
-My more recent research interests are in automated planning and reasoning in robotics, specifically focused on task-and-motion planning problems. 
-
-Previously, I worked as a Machine Learning engineer, at [Xero](https://www.xero.com) and [Hubdoc](https://www.hubdoc.com) focusing on applications in Natural Language Processing and Computer Vision.
+Previously, I worked as a Machine Learning engineer, at [Xero](https://www.xero.com) and [Hubdoc](https://www.hubdoc.com) focusing on building out production applications in Natural Language Processing and Computer Vision.
 
 ## Publications
 
